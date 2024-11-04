@@ -1,0 +1,23 @@
+# .NET
+bin/
+obj/
+*.user
+*.rsuser
+*.suo
+*.userprefs
+
+# Logs
+*.log
+
+# Temporary files
+*.tmp
+*.temp
+
+# IDE files
+.vscode/
+.idea/
+
+# Build artifacts
+Files/
+Lab1/Lab1.sln
+Lab1.Tests/Lab1.Tests.sln
