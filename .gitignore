@@ -22,4 +22,6 @@ OUTPUT.txt
 # Build artifacts
 Lab1/Lab1.sln
 Lab2/Lab2.sln
-Lab1.Tests/Lab1.Tests.sln
+Lab3/Lab3.sln
+Lab4/Lab4.sln
+*.Tests.sln
